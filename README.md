@@ -59,15 +59,15 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=for-the-badge&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-312E81?style=for-the-badge&logoColor=C4B5FD" />
 
 <br>
 
-<img src="https://img.shields.io/badge/NETWORKING-111827?style=for-the-badge&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/NETWORKING-164E63?style=for-the-badge&logoColor=67E8F9" />
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/AI-3B0764?style=for-the-badge&logoColor=D8B4FE" />
 
 </td>
 
@@ -112,9 +112,9 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Algorithms-111827?style=for-the-badge&logoColor=8B9CF6" />
-<img src="https://img.shields.io/badge/Data%20Structures-111827?style=for-the-badge&logoColor=8B9CF6" />
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Algorithms-312E81?style=for-the-badge&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Data%20Structures-164E63?style=for-the-badge&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/OOP-3F3F46?style=for-the-badge&logoColor=D4D4D8" />
 
 </p>
 
@@ -209,15 +209,15 @@ My goal is to understand how systems work, how applications are built, how netwo
 <p align="center">
 
 <a href="https://www.cisco.com/">
-<img src="https://img.shields.io/badge/CISCO-0D1117?style=for-the-badge&logo=cisco&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/CISCO-164E63?style=for-the-badge&logo=cisco&logoColor=67E8F9" />
 </a>
 
 <a href="https://www.wireshark.org/">
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Wireshark-1E3A8A?style=for-the-badge&logo=wireshark&logoColor=93C5FD" />
 </a>
 
 <a href="https://www.netacad.com/">
-<img src="https://img.shields.io/badge/Packet%20Tracer-0D1117?style=for-the-badge&logo=cisco&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-075985?style=for-the-badge&logo=cisco&logoColor=BAE6FD" />
 </a>
 
 </p>
@@ -225,31 +225,31 @@ My goal is to understand how systems work, how applications are built, how netwo
 <p align="center">
 
 <a href="https://www.rfc-editor.org/">
-<img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCP%2FIP-164E63?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc791">
-<img src="https://img.shields.io/badge/IPv4-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IPv4-1E3A8A?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc8200">
-<img src="https://img.shields.io/badge/IPv6-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IPv6-3730A3?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc1034">
-<img src="https://img.shields.io/badge/DNS-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DNS-155E75?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc2131">
-<img src="https://img.shields.io/badge/DHCP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DHCP-0F766E?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc793">
-<img src="https://img.shields.io/badge/TCP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCP-1E40AF?style=for-the-badge" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc768">
-<img src="https://img.shields.io/badge/UDP-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UDP-4C1D95?style=for-the-badge" />
 </a>
 
 </p>
@@ -276,10 +276,10 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux%20CLI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File%20Permissions-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Processes-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Shell%20Scripting-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux%20CLI-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/File%20Permissions-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Processes-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shell%20Scripting-164E63?style=for-the-badge" />
 
 </p>
 
@@ -289,306 +289,306 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <table>
 <tr>
-<td align="center" width="12%">
+<td align="center" width="12%" bgcolor="#312E81">
 
-<img src="https://img.shields.io/badge/01-0D1117?style=for-the-badge&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/01-312E81?style=for-the-badge&logoColor=C4B5FD" />
 
 </td>
-<td>
+<td bgcolor="#111827">
 
 ### 💻 Computer Foundations
 
 <a href="https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads">
-<img src="https://img.shields.io/badge/Processes-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Processes-312E81?style=flat-square" />
 </a>
 
 <a href="https://www.kernel.org/">
-<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Operating%20Systems-3730A3?style=flat-square" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Virtualization">
-<img src="https://img.shields.io/badge/Virtualization-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Virtualization-4338CA?style=flat-square" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/File_system">
-<img src="https://img.shields.io/badge/File%20Systems-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/File%20Systems-4F46E5?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#164E63">
 
-<img src="https://img.shields.io/badge/02-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-164E63?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#0F2027">
 
 ### 🌐 Networking Fundamentals
 
 <a href="https://www.rfc-editor.org/">
-<img src="https://img.shields.io/badge/TCP%2FIP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP%2FIP-155E75?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc791">
-<img src="https://img.shields.io/badge/IP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/IP-0369A1?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc1034">
-<img src="https://img.shields.io/badge/DNS-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/DNS-0E7490?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc2131">
-<img src="https://img.shields.io/badge/DHCP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/DHCP-0F766E?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc792">
-<img src="https://img.shields.io/badge/ICMP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/ICMP-0891B2?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc793">
-<img src="https://img.shields.io/badge/TCP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP-0369A1?style=flat-square" />
 </a>
 
 <a href="https://www.rfc-editor.org/rfc/rfc768">
-<img src="https://img.shields.io/badge/UDP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/UDP-155E75?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#1E3A8A">
 
-<img src="https://img.shields.io/badge/03-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-1E3A8A?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#111827">
 
 ### 🔀 Cisco & Network Engineering
 
 <a href="https://www.cisco.com/">
-<img src="https://img.shields.io/badge/Cisco-111827?style=flat-square&logo=cisco&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Cisco-1E3A8A?style=flat-square&logo=cisco&logoColor=93C5FD" />
 </a>
 
 <a href="https://www.netacad.com/courses/packet-tracer">
-<img src="https://img.shields.io/badge/Packet%20Tracer-111827?style=flat-square&logo=cisco&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-075985?style=flat-square&logo=cisco&logoColor=BAE6FD" />
 </a>
 
 <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">
-<img src="https://img.shields.io/badge/CCNA-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/CCNA-1D4ED8?style=flat-square" />
 </a>
 
 <a href="https://www.cisco.com/c/en/us/support/docs/lan-switching/vlan/10023-3.html">
-<img src="https://img.shields.io/badge/VLANs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/VLANs-2563EB?style=flat-square" />
 </a>
 
 <a href="https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html">
-<img src="https://img.shields.io/badge/Routing-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Routing-3730A3?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#334155">
 
-<img src="https://img.shields.io/badge/04-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-334155?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#111827">
 
 ### 🐧 Linux Security
 
 <a href="https://man7.org/linux/man-pages/">
-<img src="https://img.shields.io/badge/Linux%20Man%20Pages-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux%20Man%20Pages-334155?style=flat-square" />
 </a>
 
 <a href="https://www.gnu.org/software/bash/manual/">
-<img src="https://img.shields.io/badge/Bash-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Bash-475569?style=flat-square" />
 </a>
 
 <a href="https://www.redhat.com/en/topics/linux/linux-file-permissions">
-<img src="https://img.shields.io/badge/Permissions-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Permissions-64748B?style=flat-square" />
 </a>
 
 <a href="https://www.kernel.org/doc/html/latest/">
-<img src="https://img.shields.io/badge/Processes%20%26%20Services-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Processes%20%26%20Services-475569?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#581C87">
 
-<img src="https://img.shields.io/badge/05-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-581C87?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#171126">
 
 ### 🔐 Security Fundamentals
 
 <a href="https://www.nist.gov/cyberframework">
-<img src="https://img.shields.io/badge/NIST%20Cybersecurity-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/NIST%20Cybersecurity-581C87?style=flat-square" />
 </a>
 
 <a href="https://www.nist.gov/cryptography">
-<img src="https://img.shields.io/badge/Cryptography-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Cryptography-6B21A8?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-community/controls/Authentication">
-<img src="https://img.shields.io/badge/Authentication-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Authentication-7E22CE?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-community/controls/Authorization">
-<img src="https://img.shields.io/badge/Authorization-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Authorization-9333EA?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#065F46">
 
-<img src="https://img.shields.io/badge/06-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/06-065F46?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#0F2922">
 
 ### 🛡️ Defensive Security
 
 <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories">
-<img src="https://img.shields.io/badge/Threat%20Detection-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Detection-047857?style=flat-square" />
 </a>
 
 <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories/incident-response">
-<img src="https://img.shields.io/badge/Incident%20Response-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Incident%20Response-059669?style=flat-square" />
 </a>
 
 <a href="https://www.nist.gov/publications/computer-security-log-management">
-<img src="https://img.shields.io/badge/Logging%20%26%20Monitoring-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Logging%20%26%20Monitoring-0F766E?style=flat-square" />
 </a>
 
 <a href="https://www.cisa.gov/resources-tools/resources/secure-configuration-guidance">
-<img src="https://img.shields.io/badge/System%20Hardening-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/System%20Hardening-115E59?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#7C2D12">
 
-<img src="https://img.shields.io/badge/07-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/07-7C2D12?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#1C1512">
 
 ### ⚔️ Ethical Hacking
 
 <a href="https://owasp.org/www-project-web-security-testing-guide/">
-<img src="https://img.shields.io/badge/Security%20Testing-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Security%20Testing-9A3412?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/">
-<img src="https://img.shields.io/badge/OWASP-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP-C2410C?style=flat-square" />
 </a>
 
 <a href="https://portswigger.net/web-security">
-<img src="https://img.shields.io/badge/Web%20Security-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Web%20Security-EA580C?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#0E7490">
 
-<img src="https://img.shields.io/badge/08-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/08-0E7490?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#102A32">
 
 ### 🌍 Web Security
 
 <a href="https://owasp.org/www-project-top-ten/">
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-0E7490?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-community/attacks/xss/">
-<img src="https://img.shields.io/badge/XSS-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/XSS-0891B2?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-community/attacks/SQL_Injection">
-<img src="https://img.shields.io/badge/SQL%20Injection-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL%20Injection-0284C7?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-community/attacks/csrf">
-<img src="https://img.shields.io/badge/CSRF-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/CSRF-0369A1?style=flat-square" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-155E75?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#3730A3">
 
-<img src="https://img.shields.io/badge/09-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/09-3730A3?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#15162B">
 
 ### ☁️ Advanced Security
 
 <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview">
-<img src="https://img.shields.io/badge/Active%20Directory-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Active%20Directory-4338CA?style=flat-square" />
 </a>
 
 <a href="https://www.nist.gov/identity-access-management">
-<img src="https://img.shields.io/badge/IAM-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/IAM-4F46E5?style=flat-square" />
 </a>
 
 <a href="https://www.nist.gov/cyberframework">
-<img src="https://img.shields.io/badge/Cloud%20Security-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud%20Security-6366F1?style=flat-square" />
 </a>
 
 <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories">
-<img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Intelligence-7C3AED?style=flat-square" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" bgcolor="#4C1D95">
 
-<img src="https://img.shields.io/badge/10-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/10-4C1D95?style=for-the-badge" />
 
 </td>
-<td>
+<td bgcolor="#1A132B">
 
 ### 🎯 Professional Security
 
 <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories/incident-response">
-<img src="https://img.shields.io/badge/SOC-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/SOC-5B21B6?style=flat-square" />
 </a>
 
 <a href="https://www.cisa.gov/topics/cyber-threats-and-advisories/incident-response">
-<img src="https://img.shields.io/badge/Blue%20Team-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Blue%20Team-6D28D9?style=flat-square" />
 </a>
 
 <a href="https://owasp.org/www-project-web-security-testing-guide/">
-<img src="https://img.shields.io/badge/Penetration%20Testing-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=flat-square" />
 </a>
 
 <a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/CTF%20%26%20Labs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/CTF%20%26%20Labs-8B5CF6?style=flat-square" />
 </a>
 
 </td>
@@ -622,9 +622,9 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Assisted%20Development-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Automation-164E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Assisted%20Development-4C1D95?style=for-the-badge" />
 
 </p>
 
@@ -635,15 +635,15 @@ My goal is to understand how systems work, how applications are built, how netwo
 <p align="center">
 
 <a href="https://www.adobe.com/products/premiere.html">
-<img src="https://img.shields.io/badge/Premiere%20Pro-0D1117?style=for-the-badge&logo=adobepremierepro&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-312E81?style=for-the-badge&logo=adobepremierepro&logoColor=C4B5FD" />
 </a>
 
 <a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Photoshop-1E3A8A?style=for-the-badge&logo=adobephotoshop&logoColor=93C5FD" />
 </a>
 
 <a href="https://www.canva.com/">
-<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Canva-164E63?style=for-the-badge&logo=canva&logoColor=67E8F9" />
 </a>
 
 </p>
@@ -656,7 +656,7 @@ My goal is to understand how systems work, how applications are built, how netwo
 
 <a href="https://github.com/kareem-mohammed-bakr?tab=repositories">
 
-<img src="https://img.shields.io/badge/CAREERHUB-111827?style=for-the-badge&logo=github&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/CAREERHUB-312E81?style=for-the-badge&logo=github&logoColor=C4B5FD" />
 
 </a>
 

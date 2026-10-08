@@ -152,26 +152,12 @@ An educational publication covering fundamental Object-Oriented Programming (OOP
 <div align="center">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
 
   <br /><br />
 
-  <!-- Stats & Donut Chart Side-by-Side -->
-  <table>
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohammed&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-mohammed&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages Donut Chart" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-mohammed&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
+  <!-- Reliable GitHub Profile Summary Badge -->
+  <img src="https://img.shields.io/badge/GitHub%20Profile-kareem--mohammed--bakr-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Profile Badge" />
 
 </div>
 

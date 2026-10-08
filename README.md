@@ -1,8 +1,9 @@
 <div align="center">
 
   <h1>Kareem Mohammed 👨‍💻</h1>
-  <p><b>Computer Science Student | Cybersecurity Engineer in Training | Content & AI Creator</b></p>
+  <p><b>Computer Science Student | Cybersecurity Engineer in Training | Content & AI Workflows Specialist</b></p>
 
+  <!-- Social Badges -->
   <p>
     <a href="https://linkedin.com/in/kareem-mohammed-591449429"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://youtube.com/@poddosearabic?si=YmWhmQsuPSd6sOTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -14,8 +15,8 @@
 
   <br />
 
-  <!-- Fixed Animated Title Focusing on Cybersecurity -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=550&lines=Cybersecurity+%26+Network+Security;Ethical+Hacking+%26+System+Defense;Linux+System+Administration;AI+Workflows+%26+Prompt+Engineering" alt="Cybersecurity Typing SVG" />
+  <!-- Animated Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=580&lines=Cybersecurity+%26+Network+Penetration;Linux+System+Administration+%26+Defense;Full-Stack+Web+Architectures;AI+Driven+Workflows+%26+Automation" alt="Typing SVG" />
 
 </div>
 
@@ -23,14 +24,16 @@
 <hr />
 <br />
 
-## ⚡ About Me
+## 🚀 Quick Metrics & Overview
 
-I am a **Computer Science** student focused on building a solid engineering foundation in **Cybersecurity**, **Networking**, and **Systems Architecture**. I also specialize in AI workflow engineering and automated video content creation.
+<div align="center">
 
-* 🎓 **Degree:** Computer Science & Information Technology
-* 🛡️ **Primary Specialization:** Network Security & Penetration Testing
-* 🎯 **Current Focus:** Linux Systems, Operating System Internals, Cyber Defense, and AI Integration
-* 🚀 **Career Goal:** Cybersecurity Engineer
+  <img src="https://img.shields.io/badge/Degree-CS%20%26%20IT-blue?style=flat-square&logo=googleacademic" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00599E?style=flat-square&logo=linux" alt="Focus" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%2F%20Windows-0078D6?style=flat-square&logo=windows11" alt="OS" />
+  <img src="https://img.shields.io/badge/AI%20Integration-Prompt%20Eng%20%26%20Workflows-8E44AD?style=flat-square&logo=openai" alt="AI" />
+
+</div>
 
 <br />
 
@@ -38,15 +41,75 @@ I am a **Computer Science** student focused on building a solid engineering foun
 
 <br />
 
-## 🛡️ Technical Skills & Tools
+## ⚡ About Me
 
-| Domain | Tools, Languages & Environments |
+I am a **Computer Science** student passionately building an engineering-level foundation in **Cybersecurity**, **Network Security**, and **Software Systems**. Alongside core tech, I engineer AI-driven content systems and automated short-form media workflows.
+
+* 🎓 **Academic Standing:** Computer Science & Information Technology Student
+* 🛡️ **Primary Specialization:** Cybersecurity & Network Penetration Testing
+* 🎯 **Current Focus Areas:** Linux Internals, Network Defense, Systems Security, and Web Applications
+* 🚀 **Future Vision:** Operating as a Cybersecurity Engineer & Infrastructure Specialist
+
+<br />
+
+---
+
+<br />
+
+## 💼 Core Competencies & What I Do
+
+| Domain | Focus & Responsibilities |
 | :--- | :--- |
-| **Core Languages** | `Java` `JavaScript` `Python` `HTML5` `CSS3` `SQL` |
-| **Cybersecurity & Systems** | `Networking Fundamentals` `Linux (Kali/Ubuntu)` `Wireshark` `Nmap` `Metasploit` `OOP` |
-| **Databases & Dev Tools** | `PostgreSQL` `MySQL` `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Cursor` |
-| **AI Platforms & Prompting** | `ChatGPT` `Claude` `Prompt Engineering` `Vizard.ai` `Kling AI` |
-| **Media & Editing Systems** | `CapCut` `DaVinci Resolve` `Short-Form Clipping` `Automation Workflows` |
+| **🛡️ Cybersecurity & Defense** | Network Vulnerability Assessment, Traffic Analysis, Linux Security, Protocol Testing. |
+| **💻 Software & Web Dev** | Building Structured Web Systems using Java, JavaScript, Relational Databases & Modern Tooling. |
+| **🤖 AI & System Automation** | Implementing Advanced Prompt Engineering, Workflow Automation, and AI Tools Integration. |
+| **🎬 Media & Content Creation** | Short-Form Content Generation, Automated Video Editing Pipelines, and Digital Media Optimization. |
+
+<br />
+
+---
+
+<br />
+
+## 🛠️ Complete Technical Ecosystem
+
+### **Languages & Core Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### **Security, Systems & Networks**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-00599E?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### **Databases & Environment**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+### **AI Tools & Video Workflows**
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-0E1B2E?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+</p>
 
 <br />
 
@@ -96,12 +159,37 @@ I am a **Computer Science** student focused on building a solid engineering foun
 
 <br />
 
+## 📁 Featured Projects Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Employee Onboarding Portal</h3>
+      <p>A web application built to streamline digital onboarding for new employees with dynamic forms, responsive styling, and modular architecture.</p>
+
+      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Java Educational Guide & E-Book</h3>
+      <p>An educational publication covering fundamental Object-Oriented Programming (OOP) principles, structured Java logic, and clean code practices.</p>
+
+      <p><code>Java</code> • <code>OOP</code> • <code>Technical Writing</code></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<br />
+
 ## 📊 Analytical Insights & GitHub Activity
 
 <div align="center">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
 
   <br /><br />
 
@@ -109,10 +197,10 @@ I am a **Computer Science** student focused on building a solid engineering foun
   <table>
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohammed-bakr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohammed&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-mohammed-bakr&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages Donut Chart" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-mohammed&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages Donut Chart" />
       </td>
     </tr>
   </table>
@@ -120,7 +208,7 @@ I am a **Computer Science** student focused on building a solid engineering foun
   <br />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-mohammed-bakr&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-mohammed&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
 
 </div>
 

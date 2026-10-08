@@ -1,25 +1,204 @@
-# 💫 About Me:
-Hi, I'm Kareem Mohamed<br><br>I'm a Computer Science student from Egypt, focused on Cybersecurity, Web Development, and AI.<br><br>I build web applications using HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, and PostgreSQL.<br><br>Currently, I'm developing my skills in Networking, Linux, Operating Systems, and Cybersecurity, with a focus on practical learning and real-world projects.<br><br>I also work with AI tools and prompt engineering and I'm interested in integrating AI into real-world applications and development workflows.<br><br>I enjoy building projects, solving technical problems, learning new technologies, and turning ideas into practical applications.<br><br>Current Focus<br><br>- Cybersecurity and Networking<br>- Full-Stack Web Development<br>- AI and Prompt Engineering<br>- Python and Programming<br>- Computer Science Fundamentals<br><br>Goal: Become a skilled Cybersecurity Engineer while continuing to build real-world software and AI-powered projects.
+Kareem Mohamed
 
+Computer Science Student | Cybersecurity | Web Development | AI
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kareem DV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kareem Bkaar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareembkaar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kareem Mohammed) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kareem bkaar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kmbvox) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kareem Bkar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@PodDoseArabic) 
+I'm a Computer Science student from Egypt with a growing focus on Cybersecurity, Web Development, Artificial Intelligence, and Computer Science fundamentals.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kareem-mohammed-bakr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kareem-mohammed-bakr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kareem-mohammed-bakr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build practical projects and continuously develop my skills through hands-on learning.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kareem-mohammed-bakr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My current technical focus includes networking, cybersecurity fundamentals, programming, databases, algorithms, and web development.
+
+I also use AI tools for development, problem solving, research, prompt engineering, content creation, and improving development workflows.
 
 ---
-[![](https://komarev.com/ghpvc/?username=kareem-mohammed-bakr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/krym08236@) 
+About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Computer Science student
+- Cybersecurity learner with a focus on Networking and Computer Systems
+- Web Developer with experience in HTML, CSS, and JavaScript
+- Learning Python and strengthening my programming fundamentals
+- Studying Algorithms and Data Structures
+- Learning Database concepts and working with SQL
+- Interested in Linux, Networking, and Cybersecurity
+- Interested in AI tools, Prompt Engineering, and AI-assisted development
+- Interested in Video Editing, Content Creation, and Digital Media
+- I enjoy building practical projects and learning through experimentation
+
+---
+
+Current Focus
+
+Cybersecurity
+
+- Networking Fundamentals
+- IP Addressing
+- Network Protocols
+- Client / Server Architecture
+- P2P Networks
+- Network Components
+- Linux Fundamentals
+- Command Line
+- Cybersecurity Fundamentals
+
+Programming & Computer Science
+
+- Java
+- JavaScript
+- Python
+- Algorithms
+- Data Structures
+- Problem Solving
+- Programming Logic
+
+Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Front-End Development
+
+Databases
+
+- Database Fundamentals
+- SQL
+- MySQL
+- PostgreSQL
+- Database Design Fundamentals
+
+Artificial Intelligence
+
+- Prompt Engineering
+- AI-Assisted Programming
+- AI Research
+- AI Content Creation
+- AI Productivity Tools
+- Working with LLMs
+
+---
+
+Tech Stack
+
+Programming Languages
+
+"Java" (https://img.shields.io/badge/Java-172033?style=for-the-badge&logo=openjdk&logoColor=8B9BB4)
+"JavaScript" (https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"Python" (https://img.shields.io/badge/Python-172033?style=for-the-badge&logo=python&logoColor=3776AB)
+
+Web Development
+
+"HTML5" (https://img.shields.io/badge/HTML5-172033?style=for-the-badge&logo=html5&logoColor=E34F26)
+"CSS3" (https://img.shields.io/badge/CSS3-172033?style=for-the-badge&logo=css3&logoColor=1572B6)
+"JavaScript" (https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+Cybersecurity & Networking
+
+"Cisco" (https://img.shields.io/badge/Cisco-172033?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+"Linux" (https://img.shields.io/badge/Linux-172033?style=for-the-badge&logo=linux&logoColor=FCC624)
+"Bash" (https://img.shields.io/badge/Bash-172033?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+"Git" (https://img.shields.io/badge/Git-172033?style=for-the-badge&logo=git&logoColor=F05032)
+
+Algorithms & Data Structures
+
+"Algorithms" (https://img.shields.io/badge/Algorithms-172033?style=for-the-badge&logo=thealgorithms&logoColor=8FA3BF)
+"Data Structures" (https://img.shields.io/badge/Data%20Structures-172033?style=for-the-badge&logo=databricks&logoColor=8FA3BF)
+
+Databases
+
+"MySQL" (https://img.shields.io/badge/MySQL-172033?style=for-the-badge&logo=mysql&logoColor=4479A1)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-172033?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+"Prisma" (https://img.shields.io/badge/Prisma-172033?style=for-the-badge&logo=prisma&logoColor=5A67D8)
+
+Development Tools
+
+"GitHub" (https://img.shields.io/badge/GitHub-172033?style=for-the-badge&logo=github&logoColor=FFFFFF)
+"VS Code" (https://img.shields.io/badge/VS%20Code-172033?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+"Docker" (https://img.shields.io/badge/Docker-172033?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+AI Tools
+
+"ChatGPT" (https://img.shields.io/badge/ChatGPT-172033?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+"Google Gemini" (https://img.shields.io/badge/Gemini-172033?style=for-the-badge&logo=google&logoColor=8AB4F8)
+"Claude" (https://img.shields.io/badge/Claude-172033?style=for-the-badge&logo=anthropic&logoColor=D97757)
+"Ollama" (https://img.shields.io/badge/Ollama-172033?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
+
+Content Creation & Editing
+
+"Adobe Premiere Pro" (https://img.shields.io/badge/Premiere%20Pro-172033?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+"Adobe Photoshop" (https://img.shields.io/badge/Photoshop-172033?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+"Canva" (https://img.shields.io/badge/Canva-172033?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+---
+
+AI & Prompt Engineering
+
+I use AI tools as part of my development and learning workflow.
+
+- Prompt Engineering
+- AI-Assisted Coding
+- Code Explanation and Debugging
+- Research and Information Analysis
+- Content Generation
+- Content Improvement
+- Idea Generation
+- AI-Assisted Problem Solving
+- Working with Large Language Models
+- AI Productivity Workflows
+
+---
+
+Development Philosophy
+
+I believe in learning by building.
+
+Instead of only studying theory, I try to apply what I learn through projects, experiments, problem solving, and practical tasks.
+
+My goal is to continuously improve my technical foundation and eventually specialize in Cybersecurity while maintaining strong programming and software development skills.
+
+---
+
+Socials
+
+""Instagram" (https://img.shields.io/badge/Instagram-172033?style=for-the-badge&logo=instagram&logoColor=E4405F)" (https://www.instagram.com/kareembkaar?stkn=ZWs2dXYyOHRpejd0)
+
+""YouTube" (https://img.shields.io/badge/YouTube-172033?style=for-the-badge&logo=youtube&logoColor=FF0000)" (https://youtube.com/@poddosearabic?si=YmWhmQsuPSd6sOTV)
+
+""Facebook" (https://img.shields.io/badge/Facebook-172033?style=for-the-badge&logo=facebook&logoColor=1877F2)" (https://www.facebook.com/share/19Jsyb1A4f/)
+
+""Snapchat" (https://img.shields.io/badge/Snapchat-172033?style=for-the-badge&logo=snapchat&logoColor=FFFC00)" (https://www.snapchat.com/add/kvluna25?share_id=Kzak7NR-YNw&locale=en-GB)
+
+""X" (https://img.shields.io/badge/X-172033?style=for-the-badge&logo=x&logoColor=FFFFFF)" (https://x.com/mhmd_krym22430)
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-172033?style=for-the-badge&logo=linkedin&logoColor=0A66C2)" (https://www.linkedin.com/in/kareem-mohammed-591449429)
+
+""Email" (https://img.shields.io/badge/Email-172033?style=for-the-badge&logo=gmail&logoColor=EA4335)" (mailto:krym08236@gmail.com)
+
+---
+
+GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.shion.dev/api?username=kareem-mohammed-bakr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+
+"GitHub Streak" (https://streak-stats.demolab.com/?user=kareem-mohammed-bakr&theme=transparent&hide_border=true)
+
+"Top Languages" (https://github-readme-stats.shion.dev/api/top-langs/?username=kareem-mohammed-bakr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+Contribution Activity
+
+"GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&bg_color=0d1117&color=8b9bb4&line=6b7cff&point=ffffff&area=true&hide_border=true)
+
+---
+
+Profile Views
+
+"Profile Views" (https://komarev.com/ghpvc/?username=kareem-mohammed-bakr&style=for-the-badge&color=172033)
+
+---
+
+Contact
+
+Email: krym08236@gmail.com
+
+Open to learning, collaboration, technical projects, and opportunities that help me grow in Cybersecurity and Software Development.

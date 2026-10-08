@@ -1,4 +1,4 @@
-<div align="center">
+1pq<div align="center">
 
   <h1>Kareem Mohammed 👨‍💻</h1>
   <p><b>Computer Science Student | Cybersecurity Engineer in Training | Content & AI Workflows Specialist</b></p>
@@ -98,71 +98,4 @@ I am a **Computer Science** student passionately building an engineering-level f
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
-### **AI Tools & Video Workflows**
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-0E1B2E?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-</p>
-
-<br />
-
----
-
-<br />
-
-## 🗺️ Structured Cybersecurity Roadmap
-
-| Phase 1: CS & Networking Core 🟢 | Phase 2: System Security Base 🟡 | Phase 3: Offensive Security & AI 🔵 |
-| :--- | :--- | :--- |
-| • **Programming:** Java, Python, JS<br>• **CS:** Data Structures & Algorithms<br>• **Databases:** Relational & SQL<br>• **Web:** HTTP/HTTPS Protocols | • **Linux Admin:** CLI, Permissions, Scripts<br>• **Networking:** TCP/IP, OSI Model<br>• **Security:** Cryptography, VPNs, Firewalls<br>• **OS:** Process Management & Memory | • **Ethical Hacking:** VAPT & Pen Testing<br>• **Network Defense:** Traffic Analysis<br>• **Web Security:** OWASP Top 10<br>• **AI Security:** AI Workflows & Defenses |
-
-<br />
-
----
-
-<br />
-
-## 📁 Featured Projects Highlights
-
-### 🌐 Employee Onboarding Portal
-A web application built to streamline digital onboarding for new employees with dynamic forms, responsive styling, and modular architecture.
-* **Tech Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
-
----
-
-### 📚 Java Educational Guide & E-Book
-An educational publication covering fundamental Object-Oriented Programming (OOP) principles, structured Java logic, and clean code practices.
-* **Tech Stack:** `Java` `OOP` `Technical Writing`
-
-<br />
-
----
-
-<br />
-
-## 📊 Analytical Insights & GitHub Activity
-
-<div align="center">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
-
-  <br /><br />
-
-  <!-- Reliable GitHub Profile Summary Badge -->
-  <img src="https://img.shields.io/badge/GitHub%20Profile-kareem--mohammed--bakr-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Profile Badge" />
-
-</div>
-
-<br /><br />
-
-<div align="center">
-  <sub>Designed with precision & simplicity • Kareem Mohammed</sub>
-</div>
+  <img src="

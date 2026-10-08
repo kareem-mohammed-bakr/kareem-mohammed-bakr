@@ -1,9 +1,8 @@
-<!-- HEADER & TYPOGRAPHY -->
 <div align="center">
 
   <h1>Kareem Mohammed 👨‍💻</h1>
-  <p><b>Computer Science Student | Cybersecurity & Software Engineering Enthusiast | Content & AI Creator</b></p>
-  
+  <p><b>Computer Science Student | Cybersecurity & Software Engineering | AI & Content Creation</b></p>
+
   <p>
     <a href="https://linkedin.com/in/kareem-mohammed-591449429"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://youtube.com/@poddosearabic?si=YmWhmQsuPSd6sOTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -13,64 +12,60 @@
     <a href="mailto:krym08236@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2E86C1&center=true&width=500&lines=Building+Secured+Applications;Cybersecurity+%26+Networking+Path;AI+Workflow+%26+Prompt+Engineering;Video+Editing+%26+Digital+Content" alt="Typing SVG" />
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=500&lines=Cybersecurity+%26+Networking;Full-Stack+Web+Development;AI+Workflows+%26+Prompt+Eng;Video+Editing+%26+Content+Creation" alt="Typing SVG" />
 
 </div>
 
+<br />
 <hr />
+<br />
 
 ## ⚡ About Me
 
-I am a **Computer Science** student based in Egypt. My primary focus is building a strong base in fundamental Computer Science, Full-Stack Web Technologies, and transitioning heavily into **Cybersecurity** & **Networking**. Additionally, I leverage modern **AI tools** and **Video Editing** tools to generate digital content and automate development workflows.
+I am a **Computer Science** student focused on building a rock-solid foundation in core CS topics, Software Engineering, and **Cybersecurity**. I also leverage modern AI models and video editing platforms for digital content generation and automation.
 
-- 🎓 **Academic:** Studying Computer Science & Information Technology.
-- 🎯 **Current Focus:** CS Fundamentals, Network Security, Modern Web Applications & Prompt Engineering.
-- 🚀 **Goal:** Becoming a skilled Cybersecurity Engineer with real-world software creation skills.
+* 🎓 **Degree:** Computer Science & Information Technology
+* 🎯 **Current Focus:** Network Security, OS & Systems, Web Architectures, and AI Integration
+* 🚀 **Goal:** Becoming a Cybersecurity Engineer while continuing to build practical software projects
+
+<br />
+
+---
+
+<br />
+
+## 🛠️ Technical Ecosystem
+
+| Domain | Skills & Technologies |
+| :--- | :--- |
+| **Core Languages** | `Java` `JavaScript` `Python` `HTML5` `CSS3` `SQL` |
+| **Security & Systems** | `Networking Fundamentals` `Linux Administration` `OS Concepts` `OOP` |
+| **Databases & Tools** | `PostgreSQL` `MySQL` `Git` `VS Code` `IntelliJ IDEA` `Cursor` |
+| **AI & Workflows** | `Prompt Engineering` `ChatGPT` `Claude` `Vizard.ai` `Kling AI` |
+| **Video Editing** | `CapCut` `DaVinci Resolve` `Short-Form Clipping` `Reels Automation` |
+
+<br />
 
 ---
 
-## 🛠️ Technical Skill Set
-
-### 💻 Core Programming & Web
-`Java` • `JavaScript` • `Python` • `HTML5` • `CSS3` • `Git` • `GitHub`
-
-### 🔒 Cybersecurity & CS Fundamentals
-`Networking Basics` • `Linux Systems` • `Data Structures` • `Algorithms` • `Object-Oriented Programming (OOP)`
-
-### 🗄️ Databases & Tools
-`PostgreSQL` • `MySQL` • `SQL` • `VS Code` • `IntelliJ IDEA` • `Cursor`
-
-### 🤖 AI Tools & Prompt Engineering
-`ChatGPT` • `Claude` • `Prompt Design` • `AI Workflow Automation` • `Vizard.ai` • `Kling AI`
-
-### 🎬 Video Editing & Content Creation
-`CapCut` • `DaVinci Resolve` • `Short-Form Clipping` • `YouTube Shorts Automation`
-
----
+<br />
 
 ## 🗺️ Learning & Career Roadmap
 
-Below is my structured interactive roadmap showing my current mastery and future progression path in Computer Science, Development, and Cybersecurity:
-
 ```mermaid
 graph TD
-    classDef core fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef progress fill:#111827,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef future fill:#111827,stroke:#6b7280,stroke-width:1px,stroke-dasharray: 5 5,color:#9ca3af;
+    A[Phase 1: CS & Software Core] --> B[Java, OOP & Web Basics]
+    B --> C[Data Structures & Algorithms]
+    C --> D[Databases & SQL]
+    
+    D --> E[Phase 2: Networking & Security]
+    E --> F[Linux Administration & OS]
+    F --> G[Networking Protocols & Security]
+    
+    G --> H[Phase 3: Cyber Security & AI Workflow]
+    H --> I[Penetration Testing & Hacking]
+    H --> J[AI System Integrations]
 
-    subgraph Phase1["Phase 1: CS & Software Core"]
-        A[Java & OOP] ::: progress --> B[HTML / CSS / JavaScript] ::: progress
-        B --> C[Data Structures & Algorithms] ::: progress
-        C --> D[Relational Databases / SQL] ::: progress
-    end
 
-    subgraph Phase2["Phase 2: Networking & Security Base"]
-        D --> E[Linux System Administration] ::: progress
-        E --> F[Computer Networking Concepts] ::: progress
-        F --> G[Web Application Security Fundamentals] ::: core
-    end
-
-    subgraph Phase3["Phase 3: Cyber Security & AI Automation"]
-        G --> H[Ethical Hacking & Penetration Testing] ::: future
-        G --> I[AI-Assisted Workflow & Automation] ::: progress
-    end

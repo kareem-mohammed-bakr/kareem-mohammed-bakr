@@ -119,39 +119,9 @@ I am a **Computer Science** student passionately building an engineering-level f
 
 ## 🗺️ Structured Cybersecurity Roadmap
 
-<table>
-  <tr>
-    <th width="33%">Phase 1: CS & Networking Core 🟢</th>
-    <th width="33%">Phase 2: System Security Base 🟡</th>
-    <th width="34%">Phase 3: Offensive Security & AI 🔵</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><b>Programming Fundamentals:</b> Java, Python, JavaScript</li>
-        <li><b>Computer Science:</b> Data Structures & Algorithms</li>
-        <li><b>Database Systems:</b> Relational Databases & SQL</li>
-        <li><b>Web Concepts:</b> HTTP/HTTPS, Web Architectures</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><b>Linux Administration:</b> CLI, Permissions, Scripting</li>
-        <li><b>Computer Networking:</b> TCP/IP, OSI Model, Subnetting</li>
-        <li><b>Security Concepts:</b> Cryptography, Firewalls, VPNs</li>
-        <li><b>Operating Systems:</b> Process Management, Memory</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><b>Ethical Hacking:</b> Penetration Testing, VAPT</li>
-        <li><b>Network Defense:</b> Traffic Analysis & Packet Inspection</li>
-        <li><b>Web Security:</b> OWASP Top 10 Security Risks</li>
-        <li><b>AI Security:</b> AI-Driven Workflows & Defenses</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Phase 1: CS & Networking Core 🟢 | Phase 2: System Security Base 🟡 | Phase 3: Offensive Security & AI 🔵 |
+| :--- | :--- | :--- |
+| • **Programming:** Java, Python, JS<br>• **CS:** Data Structures & Algorithms<br>• **Databases:** Relational & SQL<br>• **Web:** HTTP/HTTPS Protocols | • **Linux Admin:** CLI, Permissions, Scripts<br>• **Networking:** TCP/IP, OSI Model<br>• **Security:** Cryptography, VPNs, Firewalls<br>• **OS:** Process Management & Memory | • **Ethical Hacking:** VAPT & Pen Testing<br>• **Network Defense:** Traffic Analysis<br>• **Web Security:** OWASP Top 10<br>• **AI Security:** AI Workflows & Defenses |
 
 <br />
 
@@ -161,22 +131,15 @@ I am a **Computer Science** student passionately building an engineering-level f
 
 ## 📁 Featured Projects Highlights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Employee Onboarding Portal</h3>
-      <p>A web application built to streamline digital onboarding for new employees with dynamic forms, responsive styling, and modular architecture.</p>
+### 🌐 Employee Onboarding Portal
+A web application built to streamline digital onboarding for new employees with dynamic forms, responsive styling, and modular architecture.
+* **Tech Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
-      <p><code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Java Educational Guide & E-Book</h3>
-      <p>An educational publication covering fundamental Object-Oriented Programming (OOP) principles, structured Java logic, and clean code practices.</p>
+---
 
-      <p><code>Java</code> • <code>OOP</code> • <code>Technical Writing</code></p>
-    </td>
-  </tr>
-</table>
+### 📚 Java Educational Guide & E-Book
+An educational publication covering fundamental Object-Oriented Programming (OOP) principles, structured Java logic, and clean code practices.
+* **Tech Stack:** `Java` `OOP` `Technical Writing`
 
 <br />
 

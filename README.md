@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Kareem Mohammed 👨‍💻</h1>
-  <p><b>Computer Science Student | Cybersecurity & Software Engineering | AI & Content Creation</b></p>
+  <p><b>Computer Science Student | Cybersecurity Engineer in Training | Content & AI Creator</b></p>
 
   <p>
     <a href="https://linkedin.com/in/kareem-mohammed-591449429"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,7 +14,8 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=500&lines=Cybersecurity+%26+Networking;Full-Stack+Web+Development;AI+Workflows+%26+Prompt+Eng;Video+Editing+%26+Content+Creation" alt="Typing SVG" />
+  <!-- Fixed Animated Title Focusing on Cybersecurity -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=550&lines=Cybersecurity+%26+Network+Security;Ethical+Hacking+%26+System+Defense;Linux+System+Administration;AI+Workflows+%26+Prompt+Engineering" alt="Cybersecurity Typing SVG" />
 
 </div>
 
@@ -24,11 +25,12 @@
 
 ## ⚡ About Me
 
-I am a **Computer Science** student focused on building a rock-solid foundation in core CS topics, Software Engineering, and **Cybersecurity**. I also leverage modern AI models and video editing platforms for digital content generation and automation.
+I am a **Computer Science** student focused on building a solid engineering foundation in **Cybersecurity**, **Networking**, and **Systems Architecture**. I also specialize in AI workflow engineering and automated video content creation.
 
 * 🎓 **Degree:** Computer Science & Information Technology
-* 🎯 **Current Focus:** Network Security, OS & Systems, Web Architectures, and AI Integration
-* 🚀 **Goal:** Becoming a Cybersecurity Engineer while continuing to build practical software projects
+* 🛡️ **Primary Specialization:** Network Security & Penetration Testing
+* 🎯 **Current Focus:** Linux Systems, Operating System Internals, Cyber Defense, and AI Integration
+* 🚀 **Career Goal:** Cybersecurity Engineer
 
 <br />
 
@@ -36,15 +38,15 @@ I am a **Computer Science** student focused on building a rock-solid foundation 
 
 <br />
 
-## 🛠️ Technical Ecosystem
+## 🛡️ Technical Skills & Tools
 
-| Domain | Skills & Technologies |
+| Domain | Tools, Languages & Environments |
 | :--- | :--- |
 | **Core Languages** | `Java` `JavaScript` `Python` `HTML5` `CSS3` `SQL` |
-| **Security & Systems** | `Networking Fundamentals` `Linux Administration` `OS Concepts` `OOP` |
-| **Databases & Tools** | `PostgreSQL` `MySQL` `Git` `VS Code` `IntelliJ IDEA` `Cursor` |
-| **AI & Workflows** | `Prompt Engineering` `ChatGPT` `Claude` `Vizard.ai` `Kling AI` |
-| **Video Editing** | `CapCut` `DaVinci Resolve` `Short-Form Clipping` `Reels Automation` |
+| **Cybersecurity & Systems** | `Networking Fundamentals` `Linux (Kali/Ubuntu)` `Wireshark` `Nmap` `Metasploit` `OOP` |
+| **Databases & Dev Tools** | `PostgreSQL` `MySQL` `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Cursor` |
+| **AI Platforms & Prompting** | `ChatGPT` `Claude` `Prompt Engineering` `Vizard.ai` `Kling AI` |
+| **Media & Editing Systems** | `CapCut` `DaVinci Resolve` `Short-Form Clipping` `Automation Workflows` |
 
 <br />
 
@@ -52,20 +54,78 @@ I am a **Computer Science** student focused on building a rock-solid foundation 
 
 <br />
 
-## 🗺️ Learning & Career Roadmap
+## 🗺️ Structured Cybersecurity Roadmap
 
-```mermaid
-graph TD
-    A[Phase 1: CS & Software Core] --> B[Java, OOP & Web Basics]
-    B --> C[Data Structures & Algorithms]
-    C --> D[Databases & SQL]
-    
-    D --> E[Phase 2: Networking & Security]
-    E --> F[Linux Administration & OS]
-    F --> G[Networking Protocols & Security]
-    
-    G --> H[Phase 3: Cyber Security & AI Workflow]
-    H --> I[Penetration Testing & Hacking]
-    H --> J[AI System Integrations]
+<table>
+  <tr>
+    <th width="33%">Phase 1: CS & Networking Core 🟢</th>
+    <th width="33%">Phase 2: System Security Base 🟡</th>
+    <th width="34%">Phase 3: Offensive Security & AI 🔵</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Programming Fundamentals:</b> Java, Python, JavaScript</li>
+        <li><b>Computer Science:</b> Data Structures & Algorithms</li>
+        <li><b>Database Systems:</b> Relational Databases & SQL</li>
+        <li><b>Web Concepts:</b> HTTP/HTTPS, Web Architectures</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Linux Administration:</b> CLI, Permissions, Scripting</li>
+        <li><b>Computer Networking:</b> TCP/IP, OSI Model, Subnetting</li>
+        <li><b>Security Concepts:</b> Cryptography, Firewalls, VPNs</li>
+        <li><b>Operating Systems:</b> Process Management, Memory</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Ethical Hacking:</b> Penetration Testing, VAPT</li>
+        <li><b>Network Defense:</b> Traffic Analysis & Packet Inspection</li>
+        <li><b>Web Security:</b> OWASP Top 10 Security Risks</li>
+        <li><b>AI Security:</b> AI-Driven Workflows & Defenses</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br />
 
+---
+
+<br />
+
+## 📊 Analytical Insights & GitHub Activity
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&area=true&hide_border=true&color=58a6ff" width="98%" alt="Activity Graph" />
+
+  <br /><br />
+
+  <!-- Stats & Donut Chart Side-by-Side -->
+  <table>
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=kareem-mohammed-bakr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-mohammed-bakr&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Top Languages Donut Chart" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-mohammed-bakr&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="98%" alt="GitHub Streak" />
+
+</div>
+
+<br /><br />
+
+<div align="center">
+  <sub>Designed with precision & simplicity • Kareem Mohammed</sub>
+</div>

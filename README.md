@@ -719,7 +719,7 @@ Full-Stack Web Application
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&bg_color=00000000&color=94A3B8&line=8B9CF6&point=E5E7EB&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&hide_border=true" width="95%" />
 
 </p>
 

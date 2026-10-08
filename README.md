@@ -719,42 +719,54 @@ Full-Stack Web Application
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kareem-mohammed-bakr&theme=github-compact&hide_border=true" width="95%" />
+<a href="https://github.com/kareem-mohammed-bakr">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-mohammed-bakr&theme=github_dark" width="95%" />
+
+</a>
 
 </p>
 
 ---
+
+<p align="center">
+
+<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8B9CF6&center=true&vCenter=true&width=700&lines=CONNECT+%E2%80%A2+FOLLOW+%E2%80%A2+BUILD;LET'S+CONNECT;KEEP+BUILDING+%E2%80%A2+KEEP+LEARNING;CYBERSECURITY+%7C+CODE+%7C+AI">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8B9CF6&center=true&vCenter=true&width=700&lines=CONNECT+%E2%80%A2+FOLLOW+%E2%80%A2+BUILD;LET'S+CONNECT;KEEP+BUILDING+%E2%80%A2+KEEP+LEARNING;CYBERSECURITY+%7C+CODE+%7C+AI" />
+</a>
+
+</p>
 
 # 🌐 CONNECT
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kareem-mohammed-591449429">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=8B9CF6&labelColor=0D1117" height="38" />
 </a>
 
 <a href="https://www.instagram.com/kareembkaar?stkn=ZWs2dXYyOHRpejd0">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=8B9CF6&labelColor=0D1117" height="38" />
 </a>
 
 <a href="https://youtube.com/@poddosearabic?si=YmWhmQsuPSd6sOTV">
-<img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=8B9CF6&labelColor=0D1117" height="38" />
 </a>
 
 <a href="https://www.facebook.com/share/19Jsyb1A4f/">
-<img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=8B9CF6&labelColor=0D1117" height="38" />
 </a>
 
 <a href="https://www.snapchat.com/add/kvluna25?share_id=Kzak7NR-YNw&locale=en-GB">
-<img src="https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/Snapchat-111827?style=for-the-badge&logo=snapchat&logoColor=E5E7EB&labelColor=0D1117" height="38" />
 </a>
 
 <a href="https://x.com/mhmd_krym22430">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=E5E7EB&labelColor=0D1117" height="38" />
 </a>
 
 <a href="mailto:krym08236@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B9CF6" />
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8B9CF6&labelColor=0D1117" height="38" />
 </a>
 
 </p>
